@@ -3,7 +3,7 @@
  <div class="container">
   <table class="table table-striped">
     <thead>
-      <th>Name</th>
+      <th>Arlyn Narito</th>
       <th>Email</th>
       <th>Role</th>
       <th>Action</th>
