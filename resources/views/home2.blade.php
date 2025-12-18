@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Macapagal, Jan Axle C.
+    Macapagal, Jan Axle C
 </body>
 </html>
